@@ -5,10 +5,15 @@ A bootstrapped version of Slim framework configured with templating, ORM support
 
 # Get Started
 Update config.php to reflect your site's settings.
+
 Check out routes/example.php to see an example route file. All files in the routes directory are included by default.
+
 The static/ directory contains Twitter Bootstrap's files.
+
 The templates/ directory is searched by Twig/Slim when templates are rendered.
+
 The vendor/ directory contains all the external libraries used by bootcut.
+
 
 ## Overview
 * Routing: Slim
