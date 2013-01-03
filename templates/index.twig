@@ -1,1 +1,6 @@
-<h1>Hello {% include '_name.twig' %}</h1>
+{% extends 'base.twig' %}
+
+{% block title %}{{ SITE_NAME }} - {{ name }}{% endblock %}
+{% block body %}
+    <h1>Hello {% include '_name.twig' %}</h1>
+{% endblock %}

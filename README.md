@@ -1,9 +1,9 @@
 bootcut
 =======
 
-A bootstrapped version of Slim framework configured with templating, ORM support, and Twitter Bootstrap.
+A bootstrapped version of Slim framework configured with templating, ORM support, and Twitter Bootstrap because I was sick and tired of rolling a new PHP framework for every small project.
 
-# Get Started
+## Get Started
 Update config.php to reflect your site's settings.
 
 Check out routes/example.php to see an example route file. All files in the routes directory are included by default.
