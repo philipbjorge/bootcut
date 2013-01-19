@@ -1,5 +1,4 @@
-bootcut
-=======
+![bootcut logo](https://raw.github.com/philipbjorge/bootcut/master/logo.png)
 
 A bootstrapped version of Slim framework configured with templating, ORM support, and Twitter Bootstrap because I was sick and tired of rolling a new PHP framework for every small project.
 
